@@ -549,6 +549,7 @@ Above all, enjoy using Emacs. The community, more than anything, makes Emacs a g
     - [[https://github.com/emacs-tree-sitter/treesit-fold][treesit-fold]] - Code folding based on the tree-sitter syntax tree, built on top of treesit.el.
     - [[https://github.com/jamescherti/outline-indent.el][outline-indent]] - Fold text based on indentation levels.
     - [[https://github.com/jcfk/savefold.el][savefold]] - Persistence for various Emacs folding systems.
+    - [[https://github.com/jamescherti/kirigami.el][kirigami]] - Unifies text folding by providing commands to open and close folds across many modes.
 
 *** Compiling
 
